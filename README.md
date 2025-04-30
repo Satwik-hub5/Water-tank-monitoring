@@ -18,3 +18,7 @@ This project monitors the water levels in industrial tanks using ESP32 microcont
 2. Setup RS485 modules.
 3. Import Node-RED dashboard JSON.
 4. Monitor tank levels.
+
+## Future Improvements
+1. Mobile app integration
+2. Predictive maintenance, with cloud integration
