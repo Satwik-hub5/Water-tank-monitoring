@@ -1,4 +1,4 @@
-# Water Tank Monitoring System 🚰
+# Water Tank Monitoring System 
 
 ## Overview
 This project monitors the water levels in industrial tanks using ESP32 microcontroller and ultrasonic sensors. Data is sent over RS485 and visualized on a Node-RED dashboard.
