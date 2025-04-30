@@ -9,9 +9,9 @@ This project monitors the water levels in industrial tanks using ESP32 microcont
 - Node-RED dashboard visualization
 
 ## Hardware Used
-- ESP32
-- Ultrasonic Sensor
-- RS485 modules
+- ESP32, as a controller
+- Ultrasonic Sensor, to measure water levels
+- RS485 communication protocols
 
 ## How to Run
 1. Upload code to ESP32.
